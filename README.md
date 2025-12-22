@@ -66,6 +66,6 @@ The query is executed with a visualization that creates a heat map of failed RDP
 ![LA12](https://github.com/DrewCrouch1/Sentinel-Live-Attack-Lab/assets/158229796/a7b66804-6e76-4b97-9dfc-f94c324c0a8c)
 
 
-### Note:
+### Notes:
 Due to API limitations, the ipgeolocation.io API has a daily limit of 1,000 requests. Exercise caution to avoid exceeding this limit.
 
